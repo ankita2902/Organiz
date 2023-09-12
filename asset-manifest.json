@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Organiz/static/css/main.561c336f.css",
+    "main.js": "/Organiz/static/js/main.f8088a6e.js",
+    "index.html": "/Organiz/index.html",
+    "main.561c336f.css.map": "/Organiz/static/css/main.561c336f.css.map",
+    "main.f8088a6e.js.map": "/Organiz/static/js/main.f8088a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561c336f.css",
+    "static/js/main.f8088a6e.js"
+  ]
+}
